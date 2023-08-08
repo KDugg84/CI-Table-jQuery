@@ -15,3 +15,11 @@ td, th {
   .odd {
     background-color: #000;
   }
+
+  .underline {
+    text-decoration: underline;
+  }
+
+  .border {
+    border: solid 2px #ccc;
+  }
